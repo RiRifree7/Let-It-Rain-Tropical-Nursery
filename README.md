@@ -1,16 +1,13 @@
-# bootstrap-template
-A starter template for [Bootstrap v5.2](https://getbootstrap.com/docs/5.2/getting-started/introduction/).
-In this project, you'll be able to use this starter template, over and over again when using **Bootstrap v5.2**.
+# The Potter's Touch School Of Arts
+I created this project as a final for my Intro to Web Developement training.
 
-*Note: Please make sure you're using [Bootstrap v5.2](https://getbootstrap.com/docs/5.2/getting-started/introduction/) when looking over documentation*
+I will demonstrate what I have learned throughout the entire fourteen weeks.
 
-### CDN vs Download
-We're using Bootstrap CDN vs Download because
-- Faster connection when reaching Bootstrap servers
-- Save more memory by not adding ALL styles from Bootstrap
+## What this project will contain:
+- ***Best Practices***
+- ***Home page***
+- ***About page*** 
+- ***Contact page***
 
-## Getting Started
-1. Make sure to fork off of this repository to create a copy of this template.
-2. `git clone SSH/HTTPREMOTELINK` into desired directory in your local computer.
-3. Make sure to `cd` into recently cloned repository, and you'll see ALL the started files connected and ready to go.
-4. Code away, and make sure to use [Bootstrap v5.2](https://getbootstrap.com/docs/5.2/getting-started/introduction/) version when looking over documentation. Happy coding!
+
+*Note:  This material, including the images and text, is used for educational purposes only to enhance learning about HTML and CSS. The images used are sourced from free stock photo websites. It is not intended to depict real-life situations or events, and any resemblance to actual people, places, or events is purely coincidental. The sole purpose of using this material is to provide a learning experience for HTML and CSS students.*
