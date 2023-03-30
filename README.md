@@ -1,4 +1,4 @@
-# The Potter's Touch School Of Arts
+# Let It Rain Tropical Nursery
 I created this project as a final for my Intro to Web Developement training.
 
 I will demonstrate what I have learned throughout the entire fourteen weeks.
